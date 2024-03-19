@@ -1,0 +1,6 @@
+@media (max-width: 768px) {
+  .custom-form {
+    max-width: 90% !important;
+    padding: 20px;
+  }
+}
