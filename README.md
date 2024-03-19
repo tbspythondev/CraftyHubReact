@@ -3,6 +3,7 @@
 # React + Vite
 
 # Tech Stack:
+
 - Database: PostgreSQL
 - Backend: Python, Django, Django REST Framework
 - Frontend: ReactJS
@@ -20,7 +21,7 @@
 - Start the frontend services using:
     *Bash*: 
     - docker-compose build
-    - docker-compose up
+    - docker-compose up -d (The -d flag runs the services in detached mode, allowing them to run in the background.)
 
 - This will typically start the frontend development server on a port like 3000 (check your React project setup). 
 
